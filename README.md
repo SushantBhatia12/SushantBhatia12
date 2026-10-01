@@ -9,7 +9,7 @@ I'm a software professional with **15+ years of experience** building and modern
 ## 🚀 Areas of Focus
 
 * 🏗️ **Enterprise Architecture & Modernization**
-* ⚙️ **.NET / C# & Backend Engineering**
+* ⚙️ **.NET / C#, Python & Backend Engineering**
 * ☁️ **Azure & AWS**
 * 🔄 **Distributed Systems & Microservices**
 * 🤖 **AI Engineering & LLM Applications**
